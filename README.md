@@ -1,4 +1,4 @@
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Shahriar Shubho <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Shahriar Shubho a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -59,9 +59,8 @@ I'm Shahriar Shubho a Full Stack Web Developer and Content Creator on [Youtube](
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ShahriarShubho.ShahriarShubho)
 
-<details>
 <summary>
-  More stuff about me
+  More about me
 </summary>
 
 <br >
@@ -78,7 +77,6 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 ![ShahriarShubho's github stats](https://github-readme-stats.vercel.app/api?username=ShahriarShubho&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
