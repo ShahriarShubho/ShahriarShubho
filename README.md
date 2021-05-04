@@ -4,7 +4,7 @@ I'm Shahriar Shubho a Full Stack Web Developer. My favorite language is JavaScri
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ShahriarShubho-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/programmershub1)](https://twitter.com/programmershub1)[![LinkedIn Badge](https://img.shields.io/badge/-Shubho-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hoq-shubho-a869121b3/) [![Mail Badge](https://img.shields.io/badge/-@ShahriarShubho-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-shubho-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ShahriarShubho-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/programmershub1)](https://twitter.com/programmershub1)[![LinkedIn Badge](https://img.shields.io/badge/-Shubho-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hoq-shubho-a869121b3/) [![Mail Badge](https://img.shields.io/badge/-@ShahriarShubho-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://shahriar-shubho.netlify.app) [![Mail Badge](https://img.shields.io/badge/-shubho-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -67,20 +67,9 @@ I'm Shahriar Shubho a Full Stack Web Developer. My favorite language is JavaScri
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 #### Github Stats
 
-[![Shahriar Shubho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriarShubho)](https://github.com/ShahriarShubho)
+[![Shubho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
