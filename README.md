@@ -69,7 +69,7 @@ I'm Shahriar Shubho a Full Stack Web Developer. My favorite language is JavaScri
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 #### Github Stats
 
-[![Shubho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriarShubho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
