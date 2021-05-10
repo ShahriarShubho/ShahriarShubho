@@ -53,7 +53,7 @@ I'm Shahriar Shubho a Full Stack Web Developer. My favorite language is JavaScri
 #### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1cTfIG1nqH7-_jLRl1myFeh-35cIgswnI/view?usp=sharing)
 - :email: shubha.shahriar@gmail.com
-- :Portfolio: [My Portfolio](https://shahriar-shubho.netlify.app/)[#]
+- :Portfolio: [My Portfolio](https://shahriar-shubho.netlify.app/)
 
 
 #### Profile Visits 
