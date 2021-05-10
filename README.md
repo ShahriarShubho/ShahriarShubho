@@ -8,7 +8,7 @@ I'm Shahriar Shubho a Full Stack Web Developer. My favorite language is JavaScri
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m Learning more day by day and sharp my skill
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: shubha.shahriar@gmail.com.
